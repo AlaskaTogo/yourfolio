@@ -5,7 +5,7 @@ draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cumque magnam aliquid, explicabo amet quasi eveniet reprehenderit dolorum exercitationem maiores provident ex error, tenetur.
 
 header:
-  description: Hello, my name is Gunner. I live and work in London. I'm keen on <span class="accent-text">design and photography</span>.
+  description: Hello, my name is Jennifer. I live in greater Los Angeles County. I'm keen on <span class="accent-text">###</span>.
   image:
     url: home-hero.png
     alt: The top of mountain image
@@ -20,7 +20,7 @@ header:
       cmd: Fit
 text_groups:
   - name: Intro
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia esse aut, blanditiis ullam. Similique quo iusto ipsa, excepturi autem voluptate consectetur sit quae praesentium <span class="default-text bold-text">aliquam molestiae</span> minima ex perferendis aut unde tempora amet esse inventore quaerat molestias eum distinctio eligendi ducimus. Commodi voluptatem ab debitis inventore, laborum at maiores reiciendis dolor deleniti ipsam distinctio voluptas eos autem quidem a quia laboriosam similique soluta rem? Eum.
+    description: I recently graduated from California State University of Fullerton with a mechanical engineering degree.  <span class="default-text bold-text">BOLD</span> minima ex perferendis aut unde tempora amet esse inventore quaerat molestias eum distinctio eligendi ducimus. Commodi voluptatem ab debitis inventore, laborum at maiores reiciendis dolor deleniti ipsam distinctio voluptas eos autem quidem a quia laboriosam similique soluta rem? Eum.
 projects:
   - title: Strato
     type: wed design
