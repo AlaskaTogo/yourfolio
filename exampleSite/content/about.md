@@ -16,7 +16,7 @@ header:
     - options: 490x318 Center
 text_groups:
   - name: Titan Rover
-    description: Annually, CSUF Titan Rover competes in a international competition -  University Rover Challenge at Hanksville, Utah.  <span class="default-text bold-text">voluptatem voluptatum</span>,
+    description: University Rover Challenge at Hanksville, Utah is a annual competition and unversities from all of the world come to compete in.   <span class="default-text bold-text">voluptatem voluptatum</span>,
   - name: ARMORS
     description: Man-overboard scenarios are among the leading causes of death in deep sea fishing, one of United States' most dangerous occupations. To improve rescue efficiency, the Automatic Response Man-overboard Rescue System (ARMORS) is introduced. 
   - name: EV3 Lego Race Car Project

@@ -22,5 +22,5 @@ menu:
 # Custom params
 params:
   env: development
-  logoImage: img/logo.png
+  logoImage: img/Initials.png
   logoImageAlt: Jennifer Choi Logo
