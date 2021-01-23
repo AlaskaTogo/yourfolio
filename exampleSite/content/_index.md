@@ -26,7 +26,7 @@ projects:
     type: Mechanical Design Course Project
     link: https://unsplash.com/photos/hpjSkU2UYSU
     image:
-      url: works/strato.jpg
+      url: works/Ev3_proto.jpg
       alt: The Strato web design theme
       media: "(max-width: 46.25em)"
       params:
