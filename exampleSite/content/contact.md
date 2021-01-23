@@ -16,5 +16,5 @@ header:
     - options: 360x318
 text_groups:
   - name: Collaboration
-    description: <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, atque officiis ut, veritatis reiciendis sequi quos officia quidem tempora minus fugit a suscipit nulla possimus?</p><br/><p>Let's get started&#58; <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer Choi!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a></p>
+    description: <p>Pour out your heart, I'm here to listen.</p><br/><p>Get in touch&#58; <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer Choi!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a></p>
 ---
