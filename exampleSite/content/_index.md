@@ -20,7 +20,7 @@ header:
       cmd: Fit
 text_groups:
   - name: Intro
-    description: Recent graduate from California State University, Fullerton with a mechanical engineering degree. Homesteady of analyzing how things work and move. I definitely enjoy learning about new subjects. It is always helpful to learn about different things in life including different cultures. [My interests are expanded in variety of subjects.]<span class="default-text bold-text">BOLD</span> 
+    description: Recent graduate from California State University, Fullerton with a mechanical engineering degree. Homesteady of analyzing how things work i.e. what are the object's constraints and how it is moving. I definitely enjoy learning about new subjects. Currently during this difficult time, I am repairing a Mid-West 2002 Acura RSX Type-S and a Sunny Californian 2006 Honda Accord when I am not spending time with my niece. Let me know if you got any spare parts you don't mind ditching. Other than swaping old parts out, I genuinely enjoy tuning the vehicles. It is a great learning experience of engineering applications even to the simpliest windshield wiper's kinematics. Gotta make these boys look sharp. Beauty is pain. It is always helpful to learn about different things in life including different cultures. [My interests are expanded in variety of subjects.]<span class="default-text bold-text">BOLD</span> 
 projects:
   - title: EV3 Lego Race Car
     type: Mechanical Design Course Project
