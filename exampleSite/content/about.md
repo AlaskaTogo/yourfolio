@@ -1,5 +1,5 @@
 ---
-title: About Jennifer Choi
+title: About
 date: 2017-11-08T16:56:15+02:00
 draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores porro voluptas esse natus nemo aperiam asperiores velit neque, magni molestiae!
@@ -16,7 +16,7 @@ header:
     - options: 490x318 Center
 text_groups:
   - name: Titan Rover
-    description: Annually, CSUF Titan Rover competes in a international competition -  University Rover Challenge. <span class="default-text bold-text">voluptatem voluptatum</span>,
+    description: Annually, CSUF Titan Rover competes in a international competition -  University Rover Challenge at Hanksville, Utah.  <span class="default-text bold-text">voluptatem voluptatum</span>,
   - name: ARMORS
     description: Man-overboard scenarios are among the leading causes of death in deep sea fishing, one of United States' most dangerous occupations. To improve rescue efficiency, the Automatic Response Man-overboard Rescue System (ARMORS) is introduced. 
   - name: EV3 Lego Race Car Project
