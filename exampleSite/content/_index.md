@@ -5,7 +5,7 @@ draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cumque magnam aliquid, explicabo amet quasi eveniet reprehenderit dolorum exercitationem maiores provident ex error, tenetur.
 
 header:
-  description: Hello, my name is Jennifer. I live in greater Los Angeles County. I'm keen on <span class="accent-text">###</span>.
+  description: Hello, my name is Jennifer. I live in greater Los Angeles County. I'm keen on <span class="accent-text">blank</span>.
   image:
     url: home-hero.png
     alt: The top of mountain image
