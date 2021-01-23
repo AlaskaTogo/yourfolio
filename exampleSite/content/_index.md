@@ -1,8 +1,9 @@
 ---
-title: Jennifer Choi
+title: Homepage
 date: 2017-11-01T18:28:28+02:00
 draft: false
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cumque magnam aliquid, explicabo amet quasi eveniet reprehenderit dolorum exercitationem maiores provident ex error, tenetur.
+description: Jennifer Choi
+Mechanical Engineer - California State University of Fullerton 
 
 header:
   description: Hello, my name is Jennifer. I live in greater Los Angeles County. I'm keen on <span class="accent-text">blank</span>.
