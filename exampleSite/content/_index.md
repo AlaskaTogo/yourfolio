@@ -36,7 +36,7 @@ projects:
       - options: 360x318 Left
   - title: Titan Rover
     type: Senior Design Project
-    link: https://youtu.be/E0yO_Dswoeo
+    link: https://www.youtube.com/watch?v=E0yO_Dswoeo
     class: short-col
     image:
       url: works/analytik.jpg
