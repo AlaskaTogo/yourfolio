@@ -36,7 +36,7 @@ projects:
       - options: 360x318 Left
   - title: Titan Rover
     type: Senior Design Project
-    link: 
+    link: https://unsplash.com/photos/hpjSkU2UYSU
     class: short-col
     image:
       url: works/rover.jpg
