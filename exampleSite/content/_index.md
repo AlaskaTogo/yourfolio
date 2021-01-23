@@ -47,8 +47,8 @@ projects:
       - options: 848x443 Top
       - options: 565x420
       - options: 360x318
-  - title: Friends
-    type: Product Development
+  - title: ARMORS
+    type: Undergraduate Research
     link: https://unsplash.com/photos/ir5lIkVFqC4
     class: wide-col
     image:
