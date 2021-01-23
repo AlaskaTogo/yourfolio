@@ -5,7 +5,7 @@ draft: false
 description: Jennifer Choi Mechanical Engineer California State University of Fullerton 
 
 header:
-  description: Hello, my name is Jennifer. I live in greater Los Angeles County. I'm keen on <span class="accent-text">new knowledge</span>.
+  description: Hello, my name is Jennifer. I live in greater Los Angeles County. I'm keen on <span class="accent-text">new knowledge.</span>
   image:
     url: home-hero.png
     alt: The top of mountain image
@@ -36,10 +36,10 @@ projects:
       - options: 360x318 Left
   - title: Titan Rover
     type: Senior Design Project
-    link: https://www.youtube.com/watch?v=E0yO_Dswoeo
+    link: 
     class: short-col
     image:
-      url: works/analytik.jpg
+      url: works/rover.jpg
       alt: The Analytic web design theme
       media: "(max-width: 46.25em)"
       params:
