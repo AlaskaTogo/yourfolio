@@ -16,7 +16,7 @@ menu:
     url: /contact
   - name: Projects
     weight: 3
-    url: /contact
+    url: /projects
   
 
 # Custom params
