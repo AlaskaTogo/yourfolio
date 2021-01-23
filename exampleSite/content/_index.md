@@ -20,7 +20,7 @@ header:
       cmd: Fit
 text_groups:
   - name: Intro
-    description: Recently graduated from California State University of Fullerton with a mechanical engineering degree. Homesteady of analyzing how things work and move. I definitely enjoy learning about new subjects. It is always helpful to learn about different things in life including different cultures. [My interests expanded in variety of subjects.]<span class="default-text bold-text">BOLD</span> 
+    description: Recently graduated from California State University of Fullerton with a mechanical engineering degree. Homesteady of analyzing how things work and move. I definitely enjoy learning about new subjects. It is always helpful to learn about different things in life including different cultures. [My interests are expanded in variety of subjects.]<span class="default-text bold-text">BOLD</span> 
 projects:
   - title: Strato
     type: wed design
