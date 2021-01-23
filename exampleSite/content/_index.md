@@ -2,9 +2,7 @@
 title: Homepage
 date: 2017-11-01T18:28:28+02:00
 draft: false
-description: Jennifer Choi
-Mechanical Engineer - California State University of Fullerton 
-
+description: Jennifer Choi Mechanical Engineer California State University of Fullerton 
 header:
   description: Hello, my name is Jennifer. I live in greater Los Angeles County. I'm keen on <span class="accent-text">blank</span>.
   image:
