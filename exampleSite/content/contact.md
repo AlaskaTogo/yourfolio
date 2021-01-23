@@ -16,5 +16,5 @@ header:
     - options: 360x318
 text_groups:
   - name: Collaboration
-    description: <p>Always here to learn from you.</p><br/><p>Feel free to reach out&#58; <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer Choi!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a> <p>562) 826-7740</p></p>
+    description: <p>Always here to learn from you.</p><br/><p>Feel free to reach out&#58; <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer Choi!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a> <p>Cell: 562) 826-7740</p></p>
 ---
