@@ -20,7 +20,7 @@ header:
       cmd: Fit
 text_groups:
   - name: Intro
-    description: I recently graduated from California State University of Fullerton with a mechanical engineering degree. [My interests expands in variety of subjects.] <span class="default-text bold-text">BOLD</span> 
+    description: Recently graduated from California State University of Fullerton with a mechanical engineering degree. My inquisive mind would always analyze certain objects that are surrounding me. [My interests expands in variety of subjects.]<span class="default-text bold-text">BOLD</span> 
 projects:
   - title: Strato
     type: wed design
