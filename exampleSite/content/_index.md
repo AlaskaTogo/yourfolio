@@ -52,8 +52,8 @@ projects:
     link: https://unsplash.com/photos/ir5lIkVFqC4
     class: wide-col
     image:
-      url: works/friends.jpg
-      alt: The Friends theme
+      url: works/armors.jpg
+      alt: Automatic Response Man-Overboard Rescue System
       media: "(max-width: 46.25em)"
       params:
       - options: 746x590 Left
