@@ -66,7 +66,7 @@ projects:
     class: wide-col
     image:
       url: works/Configuration_1.jpg
-      alt: The Food website for recipes
+      alt: Motorcycle Shocks
       media: "(max-width: 46.25em)"
       params:
       - options: 746x590 Center
