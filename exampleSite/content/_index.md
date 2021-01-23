@@ -5,7 +5,7 @@ draft: false
 description: Jennifer Choi Mechanical Engineer California State University of Fullerton 
 
 header:
-  description: Hello, my name is Jennifer. I live in greater Los Angeles County. I'm keen on <span class="accent-text">blank</span>.
+  description: Hello, my name is Jennifer. I live in greater Los Angeles County. I'm keen on <span class="accent-text">new knowledge</span>.
   image:
     url: home-hero.png
     alt: The top of mountain image
@@ -20,7 +20,7 @@ header:
       cmd: Fit
 text_groups:
   - name: Intro
-    description: Recently graduated from California State University of Fullerton with a mechanical engineering degree. Homesteady of analyzing how things work and move. I definitely enjoy learning about new subjects. It is always helpful to learn about different things in life including different cultures. [My interests are expanded in variety of subjects.]<span class="default-text bold-text">BOLD</span> 
+    description: Recent graduate from California State University, Fullerton with a mechanical engineering degree. Homesteady of analyzing how things work and move. I definitely enjoy learning about new subjects. It is always helpful to learn about different things in life including different cultures. [My interests are expanded in variety of subjects.]<span class="default-text bold-text">BOLD</span> 
 projects:
   - title: EV3 Lego Race Car
     type: Mechanical Design Course Project
