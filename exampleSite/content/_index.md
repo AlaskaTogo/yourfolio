@@ -5,7 +5,7 @@ draft: false
 description: Jennifer Choi Mechanical Engineer California State University of Fullerton 
 
 header:
-  description: Hello, my name is <span class="accent-text">Jennifer</span> I live in greater Los Angeles County. Always ready to learn something new. 
+  description: Hello, my name is <span class="accent-text">Jennifer.</span> I live in greater Los Angeles County. Always ready to learn something new. 
   image:
     url: home-hero.png
     alt: The top of mountain image
