@@ -5,8 +5,7 @@ draft: false
 description: Jennifer Choi Mechanical Engineer California State University of Fullerton 
 
 header:
-  description: Hello, my name is Jennifer. I live in greater Los Angeles County. I'm keen on <span class="accent-text">new knowledge.</span>
-  image:
+  description: Hello, my name is <span class="accent-text">Jennifer.</span> I live in greater Los Angeles County. Always available to learn something new.
     url: home-hero.png
     alt: The top of mountain image
     media: "(max-width: 46.25em)"
@@ -20,7 +19,7 @@ header:
       cmd: Fit
 text_groups:
   - name: Intro
-    description: Recent graduate from California State University, Fullerton with a mechanical engineering degree. Homesteady of analyzing how things work i.e. what are the object's constraints and how it is moving. I definitely enjoy learning about new subjects. Currently during this difficult time, I am repairing a Mid-West 2002 Acura RSX Type-S and a Sunny Californian 2006 Honda Accord when I am not spending time with my niece. Let me know if you got any spare parts you don't mind ditching. Other than swaping old parts out, I genuinely enjoy tuning the vehicles. It is a great learning experience of engineering applications even to the simpliest windshield wiper's kinematics. Gotta make these boys look sharp. Beauty is pain. It is always helpful to learn about different things in life including different cultures. [My interests are expanded in variety of subjects.]<span class="default-text bold-text">BOLD</span> 
+    description: A recent graduate from California State University, Fullerton with a mechanical engineering degree. Homesteady of analyzing how things work i.e. what are the object's constraints and how it is moving. I definitely enjoy learning about new subjects. Currently during this difficult time, I am repairing a Mid-West 2002 Acura RSX Type-S and a Sunny Californian 2006 Honda Accord when I am not spending time with my niece. Let me know if you got any spare parts you don't mind ditching. Other than swaping old parts out, I genuinely enjoy tuning the vehicles. It is a great learning experience of engineering applications even to the simpliest windshield wiper's kinematics. Gotta make these boys look sharp. Beauty is pain. It is always helpful to learn about different things in life including different cultures. [My interests are expanded in variety of subjects.]<span class="default-text bold-text">BOLD</span> 
 projects:
   - title: EV3 Lego Race Car
     type: Mechanical Design Course Project
@@ -61,7 +60,7 @@ projects:
       - options: 565x420 Left
       - options: 360x318 Center
   - title: Motorcycle Shocks
-    type: CAD - SolidWorks
+    type: CAD - SolidWorks Project
     link: https://unsplash.com/photos/JVSgcV8_vb4
     class: wide-col
     image:
