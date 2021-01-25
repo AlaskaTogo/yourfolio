@@ -21,6 +21,7 @@ header:
 text_groups:
   - name: Intro
     description: Mechanical Engineer and attended . Welcome to take a look at my projects from undergrad. [My interests are expanded in variety of subjects.]<span class="default-text bold-text">BOLD</span> 
+  - name: Projects
 projects:
   - title: EV3 Lego Race Car
     type: Mechanical Design Course Project
