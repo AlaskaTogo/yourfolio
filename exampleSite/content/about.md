@@ -4,7 +4,7 @@ date: 2017-11-08T16:56:15+02:00
 draft: false
 description: About - Jennifer Choi
 header:
-  description: -- <span class="accent-text">Study of Motion</span> --
+  description: -- <span class="accent-text">Get to know me</span> --
   image:
     url: about-hero.png
     alt: The designer's workspace table image
