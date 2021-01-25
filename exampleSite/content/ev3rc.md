@@ -4,7 +4,7 @@ date: 2017-11-08T16:56:15+02:00
 draft: false
 description: Mechanical Design Course Project
 header:
-  description: -- <span class="accent-text">EV3 Race Car</span> --
+  description: <span class="accent-text">Mechanical Design Course Project</span>
   image:
     url: about-hero.png
     alt: The designer's workspace table image
