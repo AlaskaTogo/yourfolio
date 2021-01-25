@@ -1,10 +1,10 @@
 ---
-title: ARMORS
+title: Motorcycle Shock Absorbers
 date: 2017-11-08T16:56:15+02:00
 draft: false
-description: Jennifer Choi Undergrad Research
+description: Computer-Aided Design
 header:
-  description: -- <span class="accent-text">Undergraduate Research</span> --
+  description: -- <span class="accent-text">Computer-Aided Design</span> --
   image:
     url: about-hero.png
     alt: The designer's workspace table image
@@ -15,7 +15,7 @@ header:
     - options: 700x420 Center
     - options: 490x318 Center
 text_groups:
-  - name: Overview
+  - name: ARMORS
     description: Man-overboard scenarios are among the leading causes of death in deep sea fishing, one of United States' most dangerous occupations. To improve rescue efficiency, the Automatic Response Man-overboard Rescue System (ARMORS) is introduced.
   - name: Motorcycle Shock Absorbers
     description:

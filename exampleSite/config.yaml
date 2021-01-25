@@ -11,14 +11,17 @@ menu:
   - name: Titan Rover
     weight: 1
     url: /titanrover
-  - name: Armors
+  - name: ARMORS
     weight: 2
     url: /armors
-  - name: EV3 Race Car
+  - name: EV3 Lego Race Car
     weight: 3
     url: /ev3rc
-  - name: Contact
+  - name: Motorcycle Shock Absorbers
     weight: 4
+    url: /msa
+  - name: Contact
+    weight: 5
     url: /contact
   
 
