@@ -11,6 +11,9 @@ menu:
   - name: Titan Rover
     weight: 1
     url: /titanrover
+  - name: Armors
+    weight: 2
+    url: /armors
   - name: Projects
     weight: 2
     url: /projects
