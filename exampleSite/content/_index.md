@@ -58,7 +58,7 @@ projects:
       - options: 360x318
   - title: ARMORS
     type: Undergraduate Research
-    link: https://unsplash.com/photos/ir5lIkVFqC4
+    link: https://www.fullerton.edu/ecs/faculty/jwsanders/
     class: wide-col
     image:
       url: works/armors.jpg
@@ -69,7 +69,7 @@ projects:
       - options: 848x443 Top
       - options: 565x420 Left
       - options: 360x318 Center
-  - title: Motorcycle Shocks
+  - title: Motorcycle Shock Absorbers
     type: CAD - SolidWorks Project
     link: https://unsplash.com/photos/JVSgcV8_vb4
     class: wide-col
