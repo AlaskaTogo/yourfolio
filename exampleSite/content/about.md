@@ -16,11 +16,10 @@ header:
     - options: 490x318 Center
 text_groups:
   - name: 2006 Honda Accord LX
-    description: Replaced windshield wiper's linkages and motor.  <span class="default-text bold-text">voluptatem voluptatum</span>,
-  - name: 2002 Acura RSX Type S
-    description: Man-overboard scenarios are among the leading causes of death in deep sea fishing, one of United States' most dangerous occupations. To improve rescue efficiency, the Automatic Response Man-overboard Rescue System (ARMORS) is introduced. 
+    description: A recent graduate from California State University, Fullerton. Always been intrigued with how objects function and having artistic interest, eventually led me to study mechanical engineering.Currently, I am restoring a 2002 Acura RSX Type-S from the mid-west and a 2006 Honda Accord LX from sunny California when I am not spending time with my niece (aka babysitting and teaching her how to count). Spending almost every weekend at the junkyard to find reusable parts. Swapping old parts out or performing basic maintenance, gain a great learning experience.For example, some of the 2006 Honda Accord’s windshield wipers are known to overshoot when in use, so they either slam at the bottom of the windshield when returning to resting position or slam into the driver’s side windshield frame. This is either caused by the plastic gears inside the motor assembly being worn out or the linkages bushings breaking off. This Accord happened to a lucky winner of having one these issues – the bushing broke off. Having to remove the old windshield linkages, you can see the four-bar linkage system design is used for the functionality of vehicle windshield wipers.I enjoy applying theoretical concepts that I have learned from my studies and being able to fix things
+
   - name: Hobbies
-    description: Enjoy going on hikes, going out for a drive, reading poetry, painting and drawing, and potty training my niece, also her 123's.  <p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid, excepturi!</p>
+    description: Enjoy going on hikes, going out for a drive, reading poetry, painting and drawing, and assembling objects.<p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid, excepturi!</p>
   - name: Get in touch
     description: <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a>
     class: line
