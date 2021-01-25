@@ -15,10 +15,8 @@ header:
     - options: 700x420 Center
     - options: 490x318 Center
 text_groups:
-  - name: ARMORS
-    description: Man-overboard scenarios are among the leading causes of death in deep sea fishing, one of United States' most dangerous occupations. To improve rescue efficiency, the Automatic Response Man-overboard Rescue System (ARMORS) is introduced.
   - name: Motorcycle Shock Absorbers
-    description:
+    description: Designing a system that has different configurations. As a team we decided to go with motorcycle shock absorbers. For the first configuration we decided to have a coil-over design lets the user adjust the height of the springs and potentially increase the performance of the shock although depending on how the user tunes the shocks the ride can stiffer, making it a less comfortable ride. For the second configuration we decided on a double spring design can improve the ride by having two springs absorb the vibrations from the road increasing the stability of the ride, but these shocks cannot be adjusted like the coil-over design.
   - name: Get in touch
     description: <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a>
     class: line
