@@ -19,13 +19,14 @@ header:
     - options: 360x318
       cmd: Fit
 text_groups:
-  - name: Intro
-    description: Mechanical Engineer and attended . Welcome to take a look at my projects from undergrad. [My interests are expanded in variety of subjects.]<span class="default-text bold-text">mechanical engineering</span> 
+  - name: About
+    description: A recent graduate from California State University, Fullerton. Always been intrigued with how objects function and having artistic interest, eventually led me to study mechanical engineering. Currently, I am restoring a 2002 Acura RSX Type-S from the mid-west and a 2006 Honda Accord LX from sunny California when I am not spending time with my niece. Spending almost every weekend at the junkyard to find reusable parts. Swapping old parts out or performing basic maintenance, truly has a person gain a great learning experience. For example, some of the 2006 Honda Accord’s windshield wipers are known to overshoot when in use, so they either slam at the bottom of the windshield when returning to resting position or slam into the driver’s side windshield frame. This is either caused by the plastic gears inside the motor assembly being worn out or the linkages bushings breaking off. This Accord happened to a lucky winner of having one these issues – the bushing broke off. Having to remove the old windshield linkages, you can see the four-bar linkage system design is used for the functionality of vehicle windshield wipers. I enjoy applying theoretical concepts that I have learned from my studies and being able to fix things. Also, I enjoy traveling to learn about different cultures. [My interests are expanded in variety of subjects.]<span class="default-text bold-text">mechanical engineering</span> 
+  - name: Hobbies
+    description: Enjoy going on hikes, going out for a drive, reading poetry, painting and drawing, and assembling objects.
   - name: Get in touch
     description: <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a>
-    class: line
   - name: Projects
-    description: Select the images to find out more about the projects
+    description: Select the images to learn about my projects
     class: line
 projects:
   - title: EV3 Lego Race Car
