@@ -88,6 +88,6 @@ projects:
       - options: 848x443
       - options: 565x420 Center
       - options: 360x318 Center
----- name: Get in touch
+  - name: Get in touch
     description: <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a>
     class: line
