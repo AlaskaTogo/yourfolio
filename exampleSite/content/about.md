@@ -20,12 +20,9 @@ text_groups:
   - name: 2002 Acura RSX Type S
     description: Man-overboard scenarios are among the leading causes of death in deep sea fishing, one of United States' most dangerous occupations. To improve rescue efficiency, the Automatic Response Man-overboard Rescue System (ARMORS) is introduced. 
   - name: Hobbies
-<<<<<<< HEAD
-    description: Enjoy going on hikes, going out for a drive, reading poetry, painting and drawing. <p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid, excepturi!</p>
-=======
-    description: Enjoy going on hikes, reading poetry, painting and drawing, and potty training my niece.  <p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid, excepturi!</p>
->>>>>>> parent of cd2e316... small edits to intro
+    description: Enjoy going on hikes, going out for a drive, reading poetry, painting and drawing, and potty training my niece, also her 123's.  <p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid, excepturi!</p>
   - name: Get in touch
     description: <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a>
     class: line
 ---
+
