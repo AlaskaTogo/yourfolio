@@ -71,7 +71,7 @@ projects:
       - options: 360x318 Center
   - title: Motorcycle Shock Absorbers
     type: CAD - SolidWorks Project
-    link: https://unsplash.com/photos/JVSgcV8_vb4
+    link: https://jenniferchoi.netlify.app/msa/
     class: wide-col
     image:
       url: works/Configuration_1.jpg
@@ -80,19 +80,6 @@ projects:
       params:
       - options: 746x590 Center
       - options: 848x443 Center
-      - options: 565x420 Center
-      - options: 360x318 Center
-  - title: EV3 Lego Race Car
-    type: Mechanical Design Course Project
-    link: https://unsplash.com/photos/nJX74kn1yn4
-    class: short-col
-    image:
-      url: works/statapp.jpg
-      alt: The application for statistic
-      media: "(max-width: 46.25em)"
-      params:
-      - options: 364x590 Left
-      - options: 848x443
       - options: 565x420 Center
       - options: 360x318 Center
 ---
