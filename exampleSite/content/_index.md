@@ -75,13 +75,13 @@ projects:
       - options: 848x443 Center
       - options: 565x420 Center
       - options: 360x318 Center
-  - title: Resume
-    type: .PDF
+  - title: StatApp
+    type: UI/UX
     link: https://unsplash.com/photos/nJX74kn1yn4
     class: short-col
     image:
       url: works/statapp.jpg
-      alt: Link to Jennifer Choi's resume
+      alt: The application for statistic
       media: "(max-width: 46.25em)"
       params:
       - options: 364x590 Left
@@ -91,3 +91,4 @@ projects:
   - name: Get in touch
     description: <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a>
     class: line
+---
