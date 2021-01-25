@@ -23,9 +23,6 @@ text_groups:
     description: Mechanical Engineer and attended . Welcome to take a look at my projects from undergrad. [My interests are expanded in variety of subjects.]<span class="default-text bold-text">mechanical engineering</span> 
   - name: Projects
     description: Select the images to find out more about the projects
-  - name: Get in touch
-    description: <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a>
-    class: line
 projects:
   - title: EV3 Lego Race Car
     type: Mechanical Design Course Project
@@ -78,17 +75,19 @@ projects:
       - options: 848x443 Center
       - options: 565x420 Center
       - options: 360x318 Center
-  - title: StatApp
-    type: UI/UX
+  - title: Resume
+    type: .PDF
     link: https://unsplash.com/photos/nJX74kn1yn4
     class: short-col
     image:
       url: works/statapp.jpg
-      alt: The application for statistic
+      alt: Link to Jennifer Choi's resume
       media: "(max-width: 46.25em)"
       params:
       - options: 364x590 Left
       - options: 848x443
       - options: 565x420 Center
       - options: 360x318 Center
----
+---- name: Get in touch
+    description: <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a>
+    class: line
