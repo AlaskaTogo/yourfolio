@@ -8,9 +8,9 @@ googleAnalytics: UA-XXXXX-Y
 # Menu items
 menu:
   main:
-  - name: About
+  - name: Titan Rover
     weight: 1
-    url: /about
+    url: /titanrover
   - name: Projects
     weight: 2
     url: /projects

@@ -4,7 +4,7 @@ date: 2017-11-08T16:56:15+02:00
 draft: false
 description: Titan Rover - Jennifer Choi
 header:
-  description: -- <span class="accent-text">Get to know me</span> --
+  description: -- <span class="accent-text">Senior Design Project</span> --
   image:
     url: about-hero.png
     alt: The designer's workspace table image
