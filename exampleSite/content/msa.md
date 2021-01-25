@@ -4,7 +4,7 @@ date: 2017-11-08T16:56:15+02:00
 draft: false
 description: Computer-Aided Design
 header:
-  description: -- <span class="accent-text">Computer-Aided Design</span> --
+  description: <span class="accent-text">Computer-Aided Design</span>
   image:
     url: about-hero.png
     alt: The designer's workspace table image
