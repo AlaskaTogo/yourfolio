@@ -14,11 +14,11 @@ menu:
   - name: Armors
     weight: 2
     url: /armors
-  - name: Projects
-    weight: 2
-    url: /projects
-  - name: Contact
+  - name: EV3 Race Car
     weight: 3
+    url: /ev3rc
+  - name: Contact
+    weight: 4
     url: /contact
   
 
