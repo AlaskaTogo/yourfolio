@@ -21,8 +21,12 @@ header:
 text_groups:
   - name: Intro
     description: Mechanical Engineer and attended . Welcome to take a look at my projects from undergrad. [My interests are expanded in variety of subjects.]<span class="default-text bold-text">mechanical engineering</span> 
+  - name: Get in touch
+    description: <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a>
+    class: line
   - name: Projects
     description: Select the images to find out more about the projects
+    class: line
 projects:
   - title: EV3 Lego Race Car
     type: Mechanical Design Course Project
@@ -88,8 +92,4 @@ projects:
       - options: 848x443
       - options: 565x420 Center
       - options: 360x318 Center
-text_groups:
-  - name: Get in touch
-    description: <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a>
-    class: line
 ---
