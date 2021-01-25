@@ -33,7 +33,7 @@ text_groups:
 projects:
   - title: EV3 Lego Race Car
     type: Mechanical Design Course Project
-    link: https://unsplash.com/photos/hpjSkU2UYSU
+    link: https://jenniferchoi.netlify.app/ev3rc/
     image:
       url: works/Ev3_proto_2.jpg
       alt: EV3 Lego Project
@@ -45,7 +45,7 @@ projects:
       - options: 360x318 Left
   - title: Titan Rover
     type: Senior Design Project
-    link: https://titanrover.com/
+    link: https://jenniferchoi.netlify.app/titanrover/
     class: short-col
     image:
       url: works/rover.jpg
@@ -58,7 +58,7 @@ projects:
       - options: 360x318
   - title: ARMORS
     type: Undergraduate Research
-    link: https://www.fullerton.edu/ecs/faculty/jwsanders/
+    link: https://jenniferchoi.netlify.app/armors/
     class: wide-col
     image:
       url: works/armors.jpg
