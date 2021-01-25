@@ -35,7 +35,7 @@ projects:
     type: Mechanical Design Course Project
     link: https://unsplash.com/photos/hpjSkU2UYSU
     image:
-      url: works/Ev3_proto.jpg
+      url: works/Ev3_proto_2.jpg
       alt: EV3 Lego Project
       media: "(max-width: 46.25em)"
       params:
@@ -82,8 +82,8 @@ projects:
       - options: 848x443 Center
       - options: 565x420 Center
       - options: 360x318 Center
-  - title: StatApp
-    type: UI/UX
+  - title: EV3 Lego Race Car
+    type: Mechanical Design Course Project
     link: https://unsplash.com/photos/nJX74kn1yn4
     class: short-col
     image:
