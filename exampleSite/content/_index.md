@@ -24,7 +24,7 @@ text_groups:
   - name:
     description:
   - name: Hobbies
-    description: Enjoy going on hikes, going out for a drive, reading poetry, painting and drawing, and assembling objects.
+    description: Enjoy going on hikes, going out for a drive, reading poetry, painting and drawing, skateboarding, and assembling objects.
   - name: Get in touch
     description: <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a>
   - name: Projects
