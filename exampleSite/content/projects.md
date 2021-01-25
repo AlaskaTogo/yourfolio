@@ -2,9 +2,9 @@
 title: Projects
 date: 2017-11-08T16:56:15+02:00
 draft: false
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores porro voluptas esse natus nemo aperiam asperiores velit neque, magni molestiae!
+description: Jennifer Choi Projects and Undergrad Research
 header:
-  description: -- <span class="accent-text">UI, UX and Visual Design</span> --
+  description: -- <span class="accent-text">Projects Overview</span> --
   image:
     url: about-hero.png
     alt: The designer's workspace table image

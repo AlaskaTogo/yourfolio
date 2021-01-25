@@ -27,7 +27,7 @@ projects:
     link: https://unsplash.com/photos/hpjSkU2UYSU
     image:
       url: works/Ev3_proto.jpg
-      alt: The Strato web design theme
+      alt: EV3 Lego Project
       media: "(max-width: 46.25em)"
       params:
       - options: 1130x590
