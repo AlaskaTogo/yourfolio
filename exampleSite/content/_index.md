@@ -24,7 +24,7 @@ text_groups:
   - name:
     description:
   - name: Hobbies
-    description: Hiking, driving, reading, painting, drawing, skateboarding, and working on vehicle.
+    description: Hiking, driving, reading, painting, drawing, skateboarding, swimming, and working on vehicle.
   - name: Get in touch
     description: <a class="accent-text bold-text" href="mailto:jenniferchoi@protonmail.com?subject=Hello,%20Jennifer!%20Lets%20make%20something%20great%20together!">jenniferchoi@protonmail.com</a>
   - name: Projects
